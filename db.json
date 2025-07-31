@@ -1,0 +1,15 @@
+{
+  "fotoss": [
+    { "id": "1", 
+    "imagem": "alguma foto", 
+    "legenda": "Saida da escola",
+     "data": "31/07/2025"
+    },
+    { "id": "2", 
+    "imagem": "alguma foto", 
+    "legenda": " Quadra da escola",
+     "data": "31/07/2025"
+    }
+
+]  
+}
