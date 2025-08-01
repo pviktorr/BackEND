@@ -1,14 +1,20 @@
 {
-  "fotoss": [
+  "fotos": [
     { "id": "1", 
-    "imagem": "alguma foto", 
-    "legenda": "Saida da escola",
+    "imagem": "https://i.postimg.cc/QM2YzZsj/saida.jpg", 
+    "legenda": "Saida da escola/Entrada, onde uma historia termina e ao mesmo tempo começa outra",
      "data": "31/07/2025"
     },
     { "id": "2", 
-    "imagem": "alguma foto", 
-    "legenda": " Quadra da escola",
+    "imagem": "https://i.postimg.cc/NjVdyvKR/foto3.jpg", 
+    "legenda": "Area externa da escola para que os alunos desfrutem do ambiente",
      "data": "31/07/2025"
+    },
+    {
+      "id": "3", 
+      "imagem": "https://i.postimg.cc/nr0kpy8j/quadra.jpg",
+      "legenda": "Quadra da escola, lugar para praticar o maximo do fisico e do mental",   
+      "data": "31/07/2025"
     }
 
 ]  
